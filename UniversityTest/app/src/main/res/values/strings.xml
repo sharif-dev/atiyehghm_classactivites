@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">UniversityTest</string>
+    <string name="bt0_text">first button</string>
+    <string name="bt1_text">second button</string>
+    <string name="welcome">welcome atiyeh!</string>
 </resources>
